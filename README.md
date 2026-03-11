@@ -116,3 +116,4 @@ pyinstaller --onefile --noconsole --icon=icon.ico 鼠标连点器.pyw
 （icon.ico 可自行准备 256×256 的 ico 文件）
 
 ---
+提供releases下载https://github.com/hao1196561270/simple-auto-clicker/edit/main/releases
